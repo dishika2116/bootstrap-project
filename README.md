@@ -54,7 +54,7 @@ project-folder/
 1. Download or clone this repository:
 
    ```
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/dishika goyal/your-repo-name.git
    ```
 
 2. Open the project folder.
